@@ -20,7 +20,7 @@ void PrintArray(int[] col) //Метод печати на экран
     }
 }
 
-int IndexOf(int[] collection, int find) //Метон нихождения индекса
+int IndexOf(int[] collection, int find) //Метод нихождения индекса
 {
     int count = collection.Length;
     int index = 0;
